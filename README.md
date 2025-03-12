@@ -17,6 +17,8 @@ Em resumo destaca a importância de cada fluxo e os riscos associados. A otimiza
 
 Este projeto contém testes automatizados desenvolvidos com Cypress para validar funcionalidades da aplicação do Coco bambu - [Aplicação Automatizada](https://app-hom.cocobambu.com/delivery)
 
+**Link**: [Suíte de Testes - Cadastro](https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu/blob/main/Desafio_Tecnico_CocoBambu/Automa%C3%A7%C3%A3oUI/Su%C3%ADtedetestes.md)
+
 ### Pré-requisitos
 
 - Node.js - versão 20.11.0 ou superiorou superior
@@ -29,7 +31,7 @@ Este projeto contém testes automatizados desenvolvidos com Cypress para validar
 
 1. Clone o Repositório
     - Realize o clone do projeto.
-    - `git clone https://github.com/seu-usuario/seu-repositorio.git`
+    - `git clone https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu.git`
 
 2. Acesse a Pasta do Projeto
     - `cd Desafio_Tecnico_CocoBambu\AutomaçãoUI\Cadastro`
@@ -56,6 +58,8 @@ Este projeto contém testes automatizados desenvolvidos com Cypress para validar
 
 Este projeto inclui testes automatizados com Cypress para verificar se as funcionalidades da API estão operando corretamente.
 
+**Link**: [Teste de Automação API](https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu/blob/main/Desafio_Tecnico_CocoBambu/TesteAPI/Automa%C3%A7%C3%A3oAPI.md)
+
 ### Pré-requisitos
 
 - Node.js - versão 20.11.0 ou superiorou superior
@@ -68,7 +72,7 @@ Este projeto inclui testes automatizados com Cypress para verificar se as funcio
 
 1. Clone o Repositório
     - Realize o clone do projeto.
-    - `git clone https://github.com/seu-usuario/seu-repositorio.git`
+    - `git clone https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu.git`
 
 2. Acesse a Pasta do Projeto
     - `cd Desafio_Tecnico_CocoBambu\TesteAPI`
