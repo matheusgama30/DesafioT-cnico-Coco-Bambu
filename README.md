@@ -34,19 +34,18 @@ Este projeto contém testes automatizados desenvolvidos com Cypress para validar
     - `git clone https://github.com/matheusgama30/DesafioT-cnico-Coco-Bambu.git`
 
 2. Acesse a Pasta do Projeto
-    - `cd Desafio_Tecnico_CocoBambu\AutomaçãoUI\Cadastro`
+    - `cd Desafio_Tecnico_CocoBambu\AutomaçãoUI`
 
 3. Instale as Dependências
     - execute o comando no terminal `npm install`
-
-4.  Instale o Cypress
-    - execute o comando no terminal `npm install cypress --save-dev`
-
-5. Instale o Faker.js
-    - execute o comando no terminal `npm install @faker-js/faker --save-dev`
+    - Aqui irá instalar a biblioteca Faker.js
     - O Faker.js é uma biblioteca que gera dados falsos e aleatórios, como nomes, e-mails, endereços e números, sendo útil para utilizar nessa automação.
 
-6. Como Rodar os Testes
+4.  Instale Dependências Cypress
+    - `cd Desafio_Tecnico_CocoBambu\AutomaçãoUI\Cadastro`
+    - execute o comando no terminal `npm install`
+
+5. Como Rodar os Testes
     - Para rodar os testes, execute:
         1.  o comando no terminal `npx cypress open`
         2.  Escolha o navegador desejado
