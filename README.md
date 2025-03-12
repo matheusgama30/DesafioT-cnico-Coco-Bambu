@@ -1,4 +1,4 @@
-# Desafio TécnicoDesafio Técnico Garantindo a Qualidade no Coco Bambu!
+# Desafio Técnico Garantindo a Qualidade no Coco Bambu!
 
 ### Neste repositório contém:
 - Identificação de Fluxos Importantes 
